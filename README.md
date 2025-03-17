@@ -12,7 +12,7 @@ Aividade avaliativa para entregar no teams até dia 24/03
 ## Site usado
 [Perfil no GitHub](https://github.com/Maeleuterio)
 
-tabela de 'infos'
+tabela de `infos`
 
 |Nome| Idade | Profissão
 |-----|-------|---------
