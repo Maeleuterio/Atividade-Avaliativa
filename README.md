@@ -5,13 +5,10 @@
 2. Lista
 3. Link
 4. Código em linha
-
-1. Tabela
-
-1. Adicionar uma imagem
-2. Link clicável para o meu perfil do GitHub
+5. Tabela
+6. Adicionar uma imagem
+7. Link clicável para o meu perfil do GitHub
 
 ## Site usado
-[visite o gitHub](https://github.com/)
 [Perfil no GitHub](https://github.com/Maeleuterio)
 
