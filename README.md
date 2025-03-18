@@ -10,7 +10,7 @@ Aividade avaliativa para entregar no teams até dia 24/03
 6. Adicionar uma imagem
 7. Link clicável para o meu perfil do GitHub
 
-tabela de `infos`
+tabela de `informações`
 
 |Nome| Idade | Profissão
 |-----|-------|---------
